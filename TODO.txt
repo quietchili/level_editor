@@ -1,0 +1,9 @@
+--add ability to delete tiles with right click
+
+--add ability to name selected tile using text input
+    --update all tiles in world_data array with selected tile name
+
+--add button to copy data to clipboard or show on screen;
+
+add option to import data using a textarea or file
+    this way if the data in level editor localstorage gets messed up we can load from the games data
